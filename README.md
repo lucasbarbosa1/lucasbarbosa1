@@ -1,6 +1,6 @@
 ### Olá! Prazer, Lucas Barbosa 👋
 
-- 🔭 Atualmente trabalho com frontend.
+- 🔭 Atualmente trabalho com React.
 - 🌱 Estudando Angular e VueJS.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 <div>
