@@ -1,7 +1,7 @@
 ### Olá! Prazer, Lucas Barbosa 👋
 
-- 🔭 Atualmente trabalho com React.
-- 🌱 Estudando Angular e VueJS.
+- 🔭 Atualmente trabalho com NestJS e VueJS
+- 🌱 Estudando React
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 <div>
   <a href="https://github.com/lucasbarbosa1">
