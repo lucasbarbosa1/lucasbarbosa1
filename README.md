@@ -1,6 +1,5 @@
 ### Olá! Prazer, Lucas Barbosa 👋
 
-- 🔭 Atualmente trabalho com NestJS e VueJS
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 <div>
   <a href="https://github.com/lucasbarbosa1">
