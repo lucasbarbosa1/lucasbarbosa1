@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 <div>
   <a href="https://github.com/lucasbarbosa1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
